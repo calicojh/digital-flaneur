@@ -1,2 +1,2 @@
-# digital-flaneur
-course repository for digital flaneur
+# Digital-Flâneur
+course repository for digital flaneur. Wie geht's?
